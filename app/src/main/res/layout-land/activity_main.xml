@@ -47,8 +47,8 @@
 
     <TextView
         android:id="@+id/show_count"
-        android:layout_width="268dp"
-        android:layout_height="287dp"
+        android:layout_width="581dp"
+        android:layout_height="234dp"
         android:layout_marginTop="16dp"
         android:background="#FFFF00"
         android:gravity="center_vertical"
@@ -58,7 +58,7 @@
         android:textSize="100sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.701"
+        app:layout_constraintHorizontal_bias="0.148"
         app:layout_constraintStart_toEndOf="@+id/button_reset"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="RtlCompat" />
